@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "body": "lorem ipsum"
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "body": "sdsd"
+    },
+    {
+      "id": "111e",
+      "title": "sasdas",
+      "body": "asaas"
+    },
+    {
+      "id": "514c",
+      "title": "sdsasasda",
+      "body": "asdsasdasdasddsa"
+    },
+    {
+      "id": "c016",
+      "title": "XCXsassa",
+      "body": "ZXZasdaaa"
+    }
+  ]
+}
